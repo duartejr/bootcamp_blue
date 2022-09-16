@@ -1,6 +1,6 @@
-Bootcamp de Dados Blue Edtech 
+# Bootcamp de Dados Blue Edtech 
 
-Projeto de precificação dinâmica
+## Projeto de precificação dinâmica
 
 Neste projeto utiliza um conjunto de dados de vendas de produtos online de um site de revenda de produtos para criar um modelo de sugestão de preços.
 
