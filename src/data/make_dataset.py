@@ -4,7 +4,7 @@ import click
 import logging
 from pathlib import Path
 from sklearn.model_selection import train_test_split
-from nltk.tokenize import RegexTokenizer
+# from nltk.tokenize import RegexTokenizer
 import numpy as np
 import pandas as pd
 import random
@@ -17,19 +17,19 @@ def make_train_test(data, test_size=0.3):
 def save_file(data, output_filepath):
     data.to_csv(output_filepath, index=False)
 
-def clean_names(name):
-    tokenizer = RegexTokenizer(r'\w+')
+# def clean_names(name):
+#     tokenizer = RegexTokenizer(r'\w+')
     
-    token = tokenizer.tokenize(name)
-    name = ''
+#     token = tokenizer.tokenize(name)
+#     name = ''
     
-    for n in token:
-        if not n.isdigit() and not n == 'rm':
-            name += n
-            name += ' '
+#     for n in token:
+#         if not n.isdigit() and not n == 'rm':
+#             name += n
+#             name += ' '
     
-    name = name.strip(n)
-    return name
+#     name = name.strip(n)
+#     return name
 
 def fill_nan(data, fill=''):
     data[data.isna()] = fill
@@ -53,15 +53,15 @@ def main(input_filepath, output_filepath):
     logger.info('making final data set from raw data')
     
     data = pd.read_csv(input_filepath)
-    data.loc[:, 'name'] = [clean_names(name) for name in data.name]
-    data.loc[:, 'brand_name'] = fill_nan(data['branch_name'], fill='No Branch')
-    data = split_category(data)
-    data = data[['name', 'category_1', 'category_2', 'category_3', 'item_condition_id',
-                 'brand_name', 'price', 'shipping', 'item_description']]
+    #data.loc[:, 'name'] = [clean_names(name) for name in data.name]
+    #data.loc[:, 'brand_name'] = fill_nan(data['branch_name'], fill='No Branch')
+    #data = split_category(data)
+    #data = data[['name', 'category_1', 'category_2', 'category_3', 'item_condition_id',
+    #             'brand_name', 'price', 'shipping', 'item_description']]
     
-    for i in range(1, 4):
-        data.loc[:, f'category_{i}'] = fill_nan(data[f'category_{i}'],
-                                                fill='No category')
+    # for i in range(1, 4):
+    #     data.loc[:, f'category_{i}'] = fill_nan(data[f'category_{i}'],
+    #                                             fill='No category')
     
     train_data, test_data = make_train_test(data)
     train_filepath = output_filepath + '/train_data.csv'
