@@ -10,16 +10,18 @@ import pandas as pd
 import random
 SEED = 101
 
+
 def make_train_test(data, test_size=0.3):
     train, test = train_test_split(data, test_size=test_size, random_state=SEED)
     return train, test
 
+
 def save_file(data, output_filepath):
     data.to_csv(output_filepath, index=False)
 
+
 # def clean_names(name):
 #     tokenizer = RegexTokenizer(r'\w+')
-    
 #     token = tokenizer.tokenize(name)
 #     name = ''
     
@@ -31,9 +33,11 @@ def save_file(data, output_filepath):
 #     name = name.strip(n)
 #     return name
 
+
 def fill_nan(data, fill=''):
     data[data.isna()] = fill
     return data
+
 
 def split_category(data):
     columns = data.category_name.str.split('/', expand=True)
@@ -41,6 +45,7 @@ def split_category(data):
         data.loc[:, f'category_{i+1}'] = columns[i]
     data.drop('category_name', axis=1, inplace=True)
     return data
+
 
 @click.command()
 @click.argument('input_filepath', type=click.Path(exists=True))
@@ -63,12 +68,14 @@ def main(input_filepath, output_filepath):
     #     data.loc[:, f'category_{i}'] = fill_nan(data[f'category_{i}'],
     #                                             fill='No category')
     
-    train_data, test_data = make_train_test(data)
-    train_filepath = output_filepath + '/train_data.csv'
-    test_filepath = output_filepath + '/test_data.csv'
+    # train_data, test_data = make_train_test(data)
+    # train_filepath = output_filepath + '/train_data.csv'
+    # test_filepath = output_filepath + '/test_data.csv'
     
-    save_file(train_data, train_filepath)
-    save_file(test_data, test_filepath)
+    print(data.head())
+    
+    #save_file(train_data, train_filepath)
+    #save_file(test_data, test_filepath)
 
 
 if __name__ == '__main__':
