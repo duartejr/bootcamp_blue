@@ -35,3 +35,7 @@ Diante disso, foram formulados as seguintes hipoteses:
 - **Hipótese 4**: a marca é relevante na definição de preço? É possível que produtos com características semelhantes possuam faixas de preços bem distintas por causa do atributo marca. Caso afirmativo, separar as marcas que agregam mais valor aos produtos antes de aplicar outros processos pode trazer bons resultados.
 
 - **Hipótese 5**: as condições do produto são relevantes na determinação do preço? É possível que as condições do item usado tenham um peso grande na determinação dos preços de venda dos produtos. Caso afirmativo, dar um maior peso a este atributo pode melhorar os resultados.
+
+
+Esse projeto contém muitas partes, se quiser acessar, clique no link apontado no sumário abaixo:
+  1 - [Análise Inicial](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/Analise%20Inicial.md)
