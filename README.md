@@ -38,4 +38,5 @@ Diante disso, foram formulados as seguintes hipoteses:
 
 
 Esse projeto contém muitas partes, se quiser acessar, clique no link apontado no sumário abaixo:
-  1 - [Análise Inicial](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/Analise%20Inicial.md)
+ 
+ 1 - [Análise Inicial](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/Analise%20Inicial.md)
