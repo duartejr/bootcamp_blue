@@ -43,7 +43,9 @@ Esse projeto contém muitas partes, se quiser acessar, clique no link apontado n
  
  2 - [Análise de Cluster](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/Analise%20Cluster.md)
  
- 3 - [Analise de Cluster no atributo título](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/analise%20texto%20titulo.md)
+ 3 - [Analise de Cluster no Atributo Título](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/analise%20texto%20titulo.md)
+ 
+ 4 - [Análise de Cluster da Descrição do Produto](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/Analise%20descri%C3%A7%C3%A3o%20Produto.md)
  
  Se quiser ler uma análise mais aprofundada, leia os relatórios:
  
