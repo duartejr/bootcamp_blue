@@ -6,12 +6,15 @@ Buscando verificar clusterizar os termos do dataset, foi aplicado o algoritmo de
 No qual os clusters ficaram da seguinte forma:
 
 - **cluster 0**: Termo mais geral;
+
 ![image](https://user-images.githubusercontent.com/39843884/200431504-28ab6076-7b47-4b3f-8a22-e7f41793aedf.png)
 
 - **cluster 1**: Cluster com termos referentes à victoria’s secret e pink;
+
 ![image](https://user-images.githubusercontent.com/39843884/200431635-5b47b4d6-787e-4aca-8f2f-76a56753523c.png)
 
 - **cluster 2**: Cluster com termos referentes à legging e lularoe.
+
 ![image](https://user-images.githubusercontent.com/39843884/200431800-ad43729f-e2d8-4e76-bb15-6e378130e11b.png)
 
 Como o cluster 0 tem os termos mais gerais, então é o que mais tem, se comparados ao cluster 1 e o cluster 2.
