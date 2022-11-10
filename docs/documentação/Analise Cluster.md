@@ -22,4 +22,5 @@ cada cluster. Os produtos sem marca (“No brand”) possuem as maiores quantida
 ![image](https://user-images.githubusercontent.com/39843884/199982767-a2b102d1-4b8b-42ad-b006-e5fedf4aaa9b.png)
 ![image](https://user-images.githubusercontent.com/39843884/199982973-409ca15c-301f-49cd-9d44-16c522744d9a.png)
 ![image](https://user-images.githubusercontent.com/39843884/199983297-9dc692bd-4a05-4359-94f6-4ea2a4233219.png)
-Para ler uma análise mais aprofundada, veja esse relatório [aqui](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d9f2f2d5-6be4-4723-8959-26bafb1a4950/relatorio_sprint_2-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221104%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221104T125353Z&X-Amz-Expires=86400&X-Amz-Signature=3bdfbbd07449fe09571d9500eb28d0a4d4746cc934dd318644a794b81a7355c2&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22relatorio_sprint_2-1.pdf%22&x-id=GetObject)
+
+Para ler uma análise mais aprofundada, veja esse relatório [aqui](https://drive.google.com/file/d/18ULRXou3CRGTwraWi-mvnriWqvR80X8f/view)
