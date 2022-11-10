@@ -51,12 +51,12 @@ Versão resumida do Projeto dos processos mais importante:
  
  Se quiser ler uma análise mais aprofundada, leia os relatórios:
  
- - [Sprint 1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/02d24558-2ffe-44b9-be56-48813a563e3f/relatorio_sprint_1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221107T230913Z&X-Amz-Expires=86400&X-Amz-Signature=f46e16f3f77707b58c4aef5bcbdf37836bddba3a2b97ea3e1850140d6e5ac4fb&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22relatorio_sprint_1.pdf%22&x-id=GetObject)
+ - [Sprint 1](https://drive.google.com/file/d/1TYEvaB1KXBTU2dMf3ChPgLqYfC2oPxOs/view?usp=sharing)
  
- - [Sprint 2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d9f2f2d5-6be4-4723-8959-26bafb1a4950/relatorio_sprint_2-1.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221107T230947Z&X-Amz-Expires=86400&X-Amz-Signature=c8006d3bd2855c84ac80bdf491f8f01ca1e9054623cded3e395fe3e78123823c&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22relatorio_sprint_2-1.pdf%22&x-id=GetObject)
+ - [Sprint 2](https://drive.google.com/file/d/18ULRXou3CRGTwraWi-mvnriWqvR80X8f/view?usp=sharing)
  
  - [Sprint 3](https://drive.google.com/file/d/1iMXBcRsYIz6kcgF3kfO-4USL-vdIE3wt/view)
  
- - [Sprint 4](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/862d528f-8f01-4363-be6c-6eb2552e5cfb/relatorio_sprint_4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221107T231058Z&X-Amz-Expires=86400&X-Amz-Signature=87e3e0299b8e47e9b6ec8196923e685a9742425ce30800855ffeb68ddf545460&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22relatorio_sprint_4.pdf%22&x-id=GetObject)
+ - [Sprint 4](https://drive.google.com/file/d/1gHbDv3Md9hKpFFfxP9Q04awTf96t0AoV/view?usp=sharing)
  
  
