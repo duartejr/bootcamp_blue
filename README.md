@@ -49,6 +49,8 @@ Versão resumida do Projeto dos processos mais importante:
  
  4 - [Análise de Cluster da Descrição do Produto](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/Analise%20descri%C3%A7%C3%A3o%20Produto.md)
  
+ 5 - [Modelagem](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/Modelagem.md)
+ 
  Se quiser ler uma análise mais aprofundada, leia os relatórios:
  
  - [Sprint 1](https://drive.google.com/file/d/1TYEvaB1KXBTU2dMf3ChPgLqYfC2oPxOs/view?usp=sharing)
