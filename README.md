@@ -51,6 +51,8 @@ Versão resumida do Projeto dos processos mais importante:
  
  5 - [Modelagem](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/Modelagem.md)
  
+ 6 - [Avaliação do Modelo](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/Avalia%C3%A7%C3%A3o%20do%20Modelo.md)
+ 
  Se quiser ler uma análise mais aprofundada, leia os relatórios:
  
  - [Sprint 1](https://drive.google.com/file/d/1TYEvaB1KXBTU2dMf3ChPgLqYfC2oPxOs/view?usp=sharing)
