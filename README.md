@@ -37,7 +37,9 @@ Diante disso, foram formulados as seguintes hipoteses:
 - **Hipótese 5**: as condições do produto são relevantes na determinação do preço? É possível que as condições do item usado tenham um peso grande na determinação dos preços de venda dos produtos. Caso afirmativo, dar um maior peso a este atributo pode melhorar os resultados.
 
 
-Esse projeto contém muitas partes, se quiser acessar, clique no link apontado no sumário abaixo:
+Esse projeto contém muitas partes, se quiser acessar, clique no link apontado no sumário abaixo
+
+Versão resumida do Projeto dos processos mais importante:
  
  1 - [Análise Inicial](https://github.com/duartejr/bootcamp_blue/blob/Gustavo/docs/documenta%C3%A7%C3%A3o/Analise%20Inicial.md)
  
@@ -56,3 +58,5 @@ Esse projeto contém muitas partes, se quiser acessar, clique no link apontado n
  - [Sprint 3](https://drive.google.com/file/d/1iMXBcRsYIz6kcgF3kfO-4USL-vdIE3wt/view)
  
  - [Sprint 4](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/862d528f-8f01-4363-be6c-6eb2552e5cfb/relatorio_sprint_4.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221107%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221107T231058Z&X-Amz-Expires=86400&X-Amz-Signature=87e3e0299b8e47e9b6ec8196923e685a9742425ce30800855ffeb68ddf545460&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22relatorio_sprint_4.pdf%22&x-id=GetObject)
+ 
+ 
